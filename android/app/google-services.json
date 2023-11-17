@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944535065001",
+    "project_id": "timesheet-868c7",
+    "storage_bucket": "timesheet-868c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944535065001:android:3bb7766f694f1dd56c34b8",
+        "android_client_info": {
+          "package_name": "com.timesheet.timesheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_-l083WrqZLJvbTexy94ApcJByCK90w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
