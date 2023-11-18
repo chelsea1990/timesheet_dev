@@ -4,7 +4,7 @@ Timesheet entries preliminary mobile application project.
 
 ## Getting Started
 
-This project create by Muhammad Zuhdi Abdullah within less than 1 day.
+Challenge: This project create by Muhammad Zuhdi Abdullah in less than one day using Flutter.
 User can add project name, task, assigned to, from date, to date and status.
 User can edit or delete any of it and will also update in the cloud.
 User can search project name and task.
